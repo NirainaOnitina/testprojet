@@ -1,6 +1,4 @@
 print("Hello")
-print("coucou")
-print("Holynirina")
-print("Nini")
+
 print("Holynirina")
 print("Nini")
